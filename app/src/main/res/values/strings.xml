@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prosper Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="invite">Invite</string>
+    <string name="text">Text</string>
+    <string name="call">Call</string>
+    <string name="add">ADD</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email_error">Email address not valid.</string>
+    <string name="phone_number_error">Phone number not valid.</string>
+    <string name="error">Something went wrong, please try again.</string>
+    <string name="add_to_contacts_label">Add To Contacts</string>
+    <string name="contact_details_label">Contact Details</string>
+</resources>

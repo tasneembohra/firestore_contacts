@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "482864551827",
+    "firebase_url": "https://hello-prosper-app.firebaseio.com",
+    "project_id": "hello-prosper-app",
+    "storage_bucket": "hello-prosper-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482864551827:android:e03752490468a835",
+        "android_client_info": {
+          "package_name": "demo.prosper.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482864551827-jtoahe42ced5pl549asjr82fkihoibr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdaFdEsTS9PIiaBvjPN85Qqp1jnDY5Ss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
